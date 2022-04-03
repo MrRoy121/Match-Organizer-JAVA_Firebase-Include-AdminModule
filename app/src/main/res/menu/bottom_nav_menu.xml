@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tour"
+        android:title="Tounaments"
+        android:icon="@drawable/tour"/>
+    <item
+        android:id="@+id/match"
+        android:title="Daily Matches"
+        android:icon="@drawable/matches"/>
+    <item
+        android:id="@+id/mymatch"
+        android:title="My Matches"
+        android:icon="@drawable/my_match"/>
+    <item
+        android:id="@+id/lead"
+        android:title="Leaderboard"
+        android:icon="@drawable/lead"/>
+</menu>

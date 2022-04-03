@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.NoActionBar">
+        <activity
+            android:name=".quiz_list"
+            android:exported="false" />
+        <activity
+            android:name=".addquestion"
+            android:exported="false" />
+        <activity
+            android:name=".addquiz"
+            android:exported="false" />
+        <activity
+            android:name=".quiz_result"
+            android:exported="false" />
+        <activity
+            android:name=".quiz"
+            android:exported="false" />
+        <activity
+            android:name=".matchresults"
+            android:exported="false" />
+        <activity
+            android:name=".matchs_lists"
+            android:exported="false" />
+        <activity
+            android:name=".match_members"
+            android:exported="false" />
+        <activity
+            android:name=".editmatch"
+            android:exported="false" />
+        <activity
+            android:name=".addmatch"
+            android:exported="false" />
+        <activity
+            android:name=".tournament"
+            android:exported="false" />
+        <activity
+            android:name=".withdraw"
+            android:exported="false" />
+        <activity
+            android:name=".daily_matches"
+            android:exported="false" />
+        <activity
+            android:name=".LoginRegister"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

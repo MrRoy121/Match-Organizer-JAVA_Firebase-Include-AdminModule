@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/llt"
+    android:padding="10dp"
+    android:background="#003A3A"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/q"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_height="50dp"/>
+
+    <RadioGroup
+        android:id="@+id/group"
+        android:layout_marginStart="10dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:id="@+id/b1"
+            android:textColor="@color/white"
+            android:text="DBMS"
+            android:textSize="18sp"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:textColor="@color/white"
+            android:layout_height="0dp"
+            android:id="@+id/b2"
+            android:text="C/C++ Programming"
+            android:textSize="18sp"/>
+
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:id="@+id/b3"
+            android:textColor="@color/white"
+            android:text="Data Structure"
+            android:textSize="18sp"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:id="@+id/b4"
+            android:textColor="@color/white"
+            android:text="Algorithms"
+            android:textSize="18sp"/>
+
+    </RadioGroup>
+</LinearLayout>

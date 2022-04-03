@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="admin/src/main/res/drawable/logout.xml" value="0.118" />
+        <entry key="admin/src/main/res/layout/activity_addmatch.xml" value="0.2" />
+        <entry key="admin/src/main/res/layout/activity_addquestion.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_addquiz.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_daily_matches.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_editmatch.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_login_register.xml" value="0.2600276625172891" />
+        <entry key="admin/src/main/res/layout/activity_main.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_match_members.xml" value="0.16" />
+        <entry key="admin/src/main/res/layout/activity_matchresults.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_matchs_lists.xml" value="0.1875" />
+        <entry key="admin/src/main/res/layout/activity_quiz.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_quiz_list.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_quiz_result.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/activity_tournament.xml" value="0.22" />
+        <entry key="admin/src/main/res/layout/activity_withdraw.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/layout.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/mamem_list.xml" value="0.21" />
+        <entry key="admin/src/main/res/layout/match_list.xml" value="0.2" />
+        <entry key="admin/src/main/res/layout/matchlist.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/quiz_list.xml" value="0.25" />
+        <entry key="admin/src/main/res/layout/regi_alert.xml" value="0.25" />
+        <entry key="admin/src/main/res/layout/regi_alert_duo.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/regi_alert_squad.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/room_alert.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/row.xml" value="0.20208333333333334" />
+        <entry key="admin/src/main/res/layout/withdraw_list.xml" value="0.22" />
+        <entry key="app/src/main/res/drawable/menu.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/money.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/my_match.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/noti.xml" value="0.118" />
+        <entry key="app/src/main/res/drawable/tour.xml" value="0.118" />
+        <entry key="app/src/main/res/layout/activity_completed_room.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_exam_room.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_leaderboard.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_match_room.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_my_matches.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_notification.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_payment.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_tournament.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/activity_wallet.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/history_list.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/layout1.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/lead_list.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/match_list.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/mm_list.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/quiz_layout.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/quiz_result.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/regi.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/regi2.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/regi4.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/regi_alert.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/regi_alert_dou.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/regi_alert_duo.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/regi_alert_squad.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/layout/register.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/layout/row.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/team_list.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.20208333333333334" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.20208333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "472833572426",
+    "project_id": "bph-esports",
+    "storage_bucket": "bph-esports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472833572426:android:e0520718d8c28b3572b0b3",
+        "android_client_info": {
+          "package_name": "com.example.bph_esports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472833572426-ig95ja96b2025iffp1snl6kfnc6kk039.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bph_esports",
+            "certificate_hash": "85dbcec9bb6e08c329f2eb0a54c63a83040c4b11"
+          }
+        },
+        {
+          "client_id": "472833572426-vfm07p9cqgjc5jkj9s3kmoc805qcdia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbqyyXofx9HVe11p0REdIXwSV0wuXtSm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472833572426-vfm07p9cqgjc5jkj9s3kmoc805qcdia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
